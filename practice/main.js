@@ -5,4 +5,4 @@ var cat = require('./lib/cat');
 
 var results = cat.create('test_cat');
 
-console.log(" " + results + " 11");
+console.log(" " + results + " 22");
